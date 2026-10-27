@@ -1,0 +1,800 @@
+[
+    {
+        "MASACH": "ID0001",
+        "TENSACH": "Lập Trình C căn bản",
+        "DONGIA": 45000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Nguyễn Thanh Sơn",
+        "LINKANH": "https://resources.mindx.edu.vn/uploads/images/sach-day-lap-trinh-c-co-ban%202.jpg"
+    },
+    {
+        "MASACH": "ID0002",
+        "TENSACH": "Giải Thuật Cơ Bản",
+        "DONGIA": 55000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Lê Minh Tiến"
+    },
+    {
+        "MASACH": "ID0003",
+        "TENSACH": "Cấu Trúc Dữ Liệu",
+        "DONGIA": 60000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Phan Thị Lan"
+    },
+    {
+        "MASACH": "ID0004",
+        "TENSACH": "Mạng Máy Tính",
+        "DONGIA": 65000,
+        "SOQUYEN": 2,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Trần Hữu Nghĩa"
+    },
+    {
+        "MASACH": "ID0005",
+        "TENSACH": "Hệ Điều Hành",
+        "DONGIA": 70000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Nguyễn Hoàng Quân"
+    },
+    {
+        "MASACH": "ID0006",
+        "TENSACH": "Lập Trình Java",
+        "DONGIA": 75000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Đoàn Minh Quang"
+    },
+    {
+        "MASACH": "ID0007",
+        "TENSACH": "Cơ Sở Dữ Liệu",
+        "DONGIA": 80000,
+        "SOQUYEN": 2,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Lê Minh Phát"
+    },
+    {
+        "MASACH": "ID0008",
+        "TENSACH": "Hệ Thống Thông Tin",
+        "DONGIA": 85000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Nguyễn Thị Bích Liên"
+    },
+    {
+        "MASACH": "ID0009",
+        "TENSACH": "Lập Trình Web",
+        "DONGIA": 90000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Trần Quang Minh"
+    },
+    {
+        "MASACH": "ID0010",
+        "TENSACH": "Công Nghệ Phần Mềm",
+        "DONGIA": 95000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Phan Thanh Dũng"
+    },
+    {
+        "MASACH": "ID0011",
+        "TENSACH": "Thiết Kế Mạng",
+        "DONGIA": 60000,
+        "SOQUYEN": 2,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Trần Hữu Bình"
+    },
+    {
+        "MASACH": "ID0012",
+        "TENSACH": "Kỹ Thuật Phần Mềm",
+        "DONGIA": 62000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Nguyễn Hữu Cường"
+    },
+    {
+        "MASACH": "ID0013",
+        "TENSACH": "Lập Trình Python",
+        "DONGIA": 67000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Đoàn Minh Tiến"
+    },
+    {
+        "MASACH": "ID0014",
+        "TENSACH": "Xử Lý Hình Ảnh",
+        "DONGIA": 70000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Nguyễn Thiện Phú"
+    },
+    {
+        "MASACH": "ID0015",
+        "TENSACH": "Lập Trình Android",
+        "DONGIA": 75000,
+        "SOQUYEN": 2,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Phan Thị Ngọc Anh"
+    },
+    {
+        "MASACH": "ID0016",
+        "TENSACH": "Phân Tích Thiết Kế Hệ Thống",
+        "DONGIA": 80000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Trần Thanh Hà"
+    },
+    {
+        "MASACH": "ID0017",
+        "TENSACH": "Kỹ Thuật Lập Trình Mạng",
+        "DONGIA": 85000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Lê Minh Quang"
+    },
+    {
+        "MASACH": "ID0018",
+        "TENSACH": "Phát Triển Phần Mềm Web",
+        "DONGIA": 90000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Nguyễn Thiện Minh"
+    },
+    {
+        "MASACH": "ID0019",
+        "TENSACH": "Công Nghệ Cơ Bản",
+        "DONGIA": 95000,
+        "SOQUYEN": 2,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Phan Quang Huy"
+    },
+    {
+        "MASACH": "ID0020",
+        "TENSACH": "Lập Trình Game",
+        "DONGIA": 100000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Trần Hữu Tài"
+    },
+    {
+        "MASACH": "ID0021",
+        "TENSACH": "Kỹ Thuật Lập Trình C++",
+        "DONGIA": 110000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Nguyễn Tiến Dũng"
+    },
+    {
+        "MASACH": "ID0022",
+        "TENSACH": "Giải Pháp Mạng Máy Tính",
+        "DONGIA": 115000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Lê Thanh Tuấn"
+    },
+    {
+        "MASACH": "ID0023",
+        "TENSACH": "Kỹ Thuật Mạng Máy Tính",
+        "DONGIA": 120000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Nguyễn Hoàng Khang"
+    },
+    {
+        "MASACH": "ID0024",
+        "TENSACH": "Kỹ Thuật Lập Trình JavaScript",
+        "DONGIA": 130000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Trần Minh Thiện"
+    },
+    {
+        "MASACH": "ID0025",
+        "TENSACH": "Hướng Dẫn Thiết Kế Web",
+        "DONGIA": 135000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Đoàn Hoàng Huy"
+    },
+    {
+        "MASACH": "ID0026",
+        "TENSACH": "Mạng Máy Tính Cơ Bản",
+        "DONGIA": 140000,
+        "SOQUYEN": 2,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Nguyễn Thị Bình"
+    },
+    {
+        "MASACH": "ID0027",
+        "TENSACH": "Công Nghệ Web Mới",
+        "DONGIA": 145000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Lê Hoàng Tùng"
+    },
+    {
+        "MASACH": "ID0028",
+        "TENSACH": "Giải Thuật Tối Ưu",
+        "DONGIA": 150000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Trần Thiết Vũ"
+    },
+    {
+        "MASACH": "ID0029",
+        "TENSACH": "Lập Trình Android Nâng Cao",
+        "DONGIA": 155000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Phan Thiên Bảo"
+    },
+    {
+        "MASACH": "ID0030",
+        "TENSACH": "Kỹ Thuật Phát Triển Phần Mềm",
+        "DONGIA": 160000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Nguyễn Đức Trường"
+    },
+    {
+        "MASACH": "ID0031",
+        "TENSACH": "Lập Trình Web Front-End",
+        "DONGIA": 165000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Lê Thanh Sơn"
+    },
+    {
+        "MASACH": "ID0032",
+        "TENSACH": "Kỹ Thuật Hệ Thống Thông Tin",
+        "DONGIA": 170000,
+        "SOQUYEN": 2,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Trần Đình Phúc"
+    },
+    {
+        "MASACH": "ID0033",
+        "TENSACH": "Phát Triển Hệ Thống Thông Tin",
+        "DONGIA": 175000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Nguyễn Minh Quân"
+    },
+    {
+        "MASACH": "ID0034",
+        "TENSACH": "Công Nghệ Phần Mềm Nâng Cao",
+        "DONGIA": 180000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Đoàn Thị Tuyết"
+    },
+    {
+        "MASACH": "ID0035",
+        "TENSACH": "Lập Trình iOS",
+        "DONGIA": 185000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Lê Quang Huy"
+    },
+    {
+        "MASACH": "ID0036",
+        "TENSACH": "Mạng Máy Tính Nâng Cao",
+        "DONGIA": 190000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Nguyễn Hữu Thiện"
+    },
+    {
+        "MASACH": "ID0037",
+        "TENSACH": "Lập Trình Python Nâng Cao",
+        "DONGIA": 195000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Trần Hữu Quang"
+    },
+    {
+        "MASACH": "ID0038",
+        "TENSACH": "Giải Thuật Tối Ưu Hóa",
+        "DONGIA": 200000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Lê Hoàng Tấn"
+    },
+    {
+        "MASACH": "ID0039",
+        "TENSACH": "Công Nghệ Lập Trình Web",
+        "DONGIA": 205000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Nguyễn Thị Bích Tâm"
+    },
+    {
+        "MASACH": "ID0040",
+        "TENSACH": "Lập Trình Web Full-Stack",
+        "DONGIA": 210000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Trần Minh Sơn"
+    },
+    {
+        "MASACH": "ID0041",
+        "TENSACH": "Phát Triển Ứng Dụng Di Động",
+        "DONGIA": 215000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Lê Thanh Nam"
+    },
+    {
+        "MASACH": "ID0042",
+        "TENSACH": "Trí Tuệ Nhân Tạo Cơ Bản",
+        "DONGIA": 220000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Nguyễn Văn Bình"
+    },
+    {
+        "MASACH": "ID0043",
+        "TENSACH": "Khoa Học Dữ Liệu Cơ Bản",
+        "DONGIA": 225000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Trần Văn Lợi"
+    },
+    {
+        "MASACH": "ID0044",
+        "TENSACH": "Lập Trình JavaScript Nâng Cao",
+        "DONGIA": 230000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Đỗ Hoàng Lâm"
+    },
+    {
+        "MASACH": "ID0045",
+        "TENSACH": "Phân Tích Và Thiết Kế Hệ Thống",
+        "DONGIA": 235000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Nguyễn Đức Trí"
+    },
+    {
+        "MASACH": "ID0046",
+        "TENSACH": "An Toàn Thông Tin Trong Hệ Thống",
+        "DONGIA": 240000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Lê Văn Hậu"
+    },
+    {
+        "MASACH": "ID0047",
+        "TENSACH": "Quản Trị Mạng Máy Tính",
+        "DONGIA": 245000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Trần Thị Thanh"
+    },
+    {
+        "MASACH": "ID0048",
+        "TENSACH": "Ứng Dụng Blockchain Trong Công Nghệ",
+        "DONGIA": 250000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Nguyễn Minh Phúc"
+    },
+    {
+        "MASACH": "ID0049",
+        "TENSACH": "Lập Trình Hướng Đối Tượng C++",
+        "DONGIA": 255000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Đặng Thành Phong"
+    },
+    {
+        "MASACH": "ID0050",
+        "TENSACH": "Ứng Dụng IoT Trong Đời Sống",
+        "DONGIA": 260000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Lương Hoàng Khang"
+    },
+    {
+        "MASACH": "ID0051",
+        "TENSACH": "Học Máy Cơ Bản",
+        "DONGIA": 265000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Trần Quốc Bảo"
+    },
+    {
+        "MASACH": "ID0052",
+        "TENSACH": "Lập Trình Python Cho Khoa Học Dữ Liệu",
+        "DONGIA": 270000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Nguyễn Thị Hồng"
+    },
+    {
+        "MASACH": "ID0053",
+        "TENSACH": "Big Data Và Ứng Dụng",
+        "DONGIA": 275000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Phạm Hoài Nam"
+    },
+    {
+        "MASACH": "ID0054",
+        "TENSACH": "Lập Trình Web Với PHP Và MySQL",
+        "DONGIA": 280000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Lê Thanh Bình"
+    },
+    {
+        "MASACH": "ID0055",
+        "TENSACH": "Điện Toán Đám Mây",
+        "DONGIA": 285000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Trịnh Công Minh"
+    },
+    {
+        "MASACH": "ID0056",
+        "TENSACH": "Phát Triển Ứng Dụng Với ReactJS",
+        "DONGIA": 290000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Đoàn Văn Tùng"
+    },
+    {
+        "MASACH": "ID0057",
+        "TENSACH": "Bảo Mật Web Và Ứng Dụng",
+        "DONGIA": 295000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Nguyễn Hoàng Duy"
+    },
+    {
+        "MASACH": "ID0058",
+        "TENSACH": "Ứng Dụng Trí Tuệ Nhân Tạo Trong Đời Sống",
+        "DONGIA": 300000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Lâm Phước Hậu"
+    },
+    {
+        "MASACH": "ID0059",
+        "TENSACH": "Lập Trình Hệ Thống Nhúng",
+        "DONGIA": 305000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Phan Thanh Tùng"
+    },
+    {
+        "MASACH": "ID0060",
+        "TENSACH": "Phát Triển Game Với Unity",
+        "DONGIA": 310000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Bùi Đức Thịnh"
+    },
+    {
+        "MASACH": "ID0061",
+        "TENSACH": "Kỹ Thuật An Toàn Thông Tin",
+        "DONGIA": 315000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Trần Anh Khoa"
+    },
+    {
+        "MASACH": "ID0062",
+        "TENSACH": "Giải Pháp Mạng Di Động",
+        "DONGIA": 320000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Nguyễn Đình Khang"
+    },
+    {
+        "MASACH": "ID0063",
+        "TENSACH": "Lập Trình Android Nâng Cao",
+        "DONGIA": 325000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Trần Xuân Khuê"
+    },
+    {
+        "MASACH": "ID0064",
+        "TENSACH": "Học Lập Trình Với JavaScript",
+        "DONGIA": 330000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Nguyễn Thị Mai"
+    },
+    {
+        "MASACH": "ID0065",
+        "TENSACH": "Cấu Trúc Dữ Liệu Và Giải Thuật Nâng Cao",
+        "DONGIA": 335000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Lê Quốc Tín"
+    },
+    {
+        "MASACH": "ID0066",
+        "TENSACH": "Lập Trình C++ Cho Game",
+        "DONGIA": 340000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Nguyễn Thái Bình"
+    },
+    {
+        "MASACH": "ID0067",
+        "TENSACH": "Kỹ Thuật Lập Trình Java",
+        "DONGIA": 345000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Phan Trung Hiếu"
+    },
+    {
+        "MASACH": "ID0068",
+        "TENSACH": "Hệ Thống Thông Tin Và Phân Tích Dữ Liệu",
+        "DONGIA": 350000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Trần Đại Đức"
+    },
+    {
+        "MASACH": "ID0069",
+        "TENSACH": "Lập Trình Phần Mềm Với Python",
+        "DONGIA": 355000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Nguyễn Phúc Tâm"
+    },
+    {
+        "MASACH": "ID0070",
+        "TENSACH": "Mạng Máy Tính Và Quản Trị Hệ Thống",
+        "DONGIA": 360000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Lê Quang Nam"
+    },
+    {
+        "MASACH": "ID0081",
+        "TENSACH": "Lập Trình Và Quản Lý Dự Án",
+        "DONGIA": 415000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Nguyễn Khánh Duy"
+    },
+    {
+        "MASACH": "ID0082",
+        "TENSACH": "Giải Thuật Tìm Kiếm Nâng Cao",
+        "DONGIA": 420000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Phan Thị Lý"
+    },
+    {
+        "MASACH": "ID0083",
+        "TENSACH": "Xử Lý Dữ Liệu Với R",
+        "DONGIA": 425000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Trần Vũ Hùng"
+    },
+    {
+        "MASACH": "ID0084",
+        "TENSACH": "Lập Trình Web Và Công Nghệ API",
+        "DONGIA": 430000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Nguyễn Tâm Hòa"
+    },
+    {
+        "MASACH": "ID0085",
+        "TENSACH": "Lập Trình Web Với ASP.NET",
+        "DONGIA": 435000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Lê Thành An"
+    },
+    {
+        "MASACH": "ID0086",
+        "TENSACH": "An Ninh Mạng Và Bảo Mật",
+        "DONGIA": 440000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Nguyễn Tân An"
+    },
+    {
+        "MASACH": "ID0087",
+        "TENSACH": "Quản Trị Hệ Thống Mạng",
+        "DONGIA": 445000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Phan Minh Sơn"
+    },
+    {
+        "MASACH": "ID0088",
+        "TENSACH": "Học Lập Trình Python Cơ Bản",
+        "DONGIA": 450000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Nguyễn Đức Vũ"
+    },
+    {
+        "MASACH": "ID0089",
+        "TENSACH": "Xử Lý Tín Hiệu Và Dữ Liệu",
+        "DONGIA": 455000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Trần Văn Thế"
+    },
+    {
+        "MASACH": "ID0090",
+        "TENSACH": "Lập Trình C# Cho Dự Án Phần Mềm",
+        "DONGIA": 460000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Phan Thanh Quân"
+    },
+    {
+        "MASACH": "ID0091",
+        "TENSACH": "Công Nghệ Web Ứng Dụng Phổ Biến",
+        "DONGIA": 465000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Trần Quang Tâm"
+    },
+    {
+        "MASACH": "ID0092",
+        "TENSACH": "Học Lập Trình Và Giải Thuật",
+        "DONGIA": 470000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Lê Quốc Định"
+    },
+    {
+        "MASACH": "ID0093",
+        "TENSACH": "Quản Trị Cơ Sở Dữ Liệu",
+        "DONGIA": 475000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Nguyễn Thiên Quân"
+    },
+    {
+        "MASACH": "ID0094",
+        "TENSACH": "Lập Trình JavaScript Cho Website",
+        "DONGIA": 480000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Trần Vũ Khang"
+    },
+    {
+        "MASACH": "ID0095",
+        "TENSACH": "Lập Trình Web PHP Nâng Cao",
+        "DONGIA": 485000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2021",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Nguyễn Văn Mạnh"
+    },
+    {
+        "MASACH": "ID0096",
+        "TENSACH": "Công Nghệ Ứng Dụng C#",
+        "DONGIA": 490000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2022",
+        "MANXB": "NXBDHHN",
+        "TACGIA": "Lê Quang Minh"
+    },
+    {
+        "MASACH": "ID0097",
+        "TENSACH": "Giải Pháp Dữ Liệu Lớn",
+        "DONGIA": 495000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2023",
+        "MANXB": "NXBDHCT",
+        "TACGIA": "Trần Đại Lượng"
+    },
+    {
+        "MASACH": "ID0098",
+        "TENSACH": "Kỹ Thuật Phát Triển Web Front-End",
+        "DONGIA": 500000,
+        "SOQUYEN": 1,
+        "NHAXUATBAN": "2020",
+        "MANXB": "NXBDHTPHCM",
+        "TACGIA": "Nguyễn Đỗ Quyền"
+    }
+]
+
+
+
+
+

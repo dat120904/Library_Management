@@ -14,31 +14,6 @@
 
 ---
 
-## 📁 Cấu Trúc Thư Mục
-
-```text
-├── BACK_END/                   # Mã nguồn Backend API & kết nối MongoDB
-│   ├── config/                 # Cấu hình CSDL (database.js)
-│   ├── controllers/            # Controller xử lý nghiệp vụ
-│   ├── database_sample/        # Dữ liệu CSDL mẫu (JSON)
-│   ├── models/                 # Mongoose Schema (Book, Reader, Staff,...)
-│   ├── routes/                 # Định tuyến API
-│   ├── uploads/                # Thư mục lưu trữ hình ảnh tải lên
-│   ├── app.js                  # Entry point Backend server
-│   └── package.json
-│
-├── FRONT_END/                  # Giao diện người dùng
-│   └── vue-project/            # Ứng dụng Vue.js (SPA)
-│       ├── public/             # Tài nguyên tĩnh
-│       ├── src/                # Components, views, router, assets
-│       └── package.json
-│
-├── DANH_SACH_TOI_UU.md         # Báo cáo các điểm cần tối ưu hóa hệ thống
-├── .gitignore                  # Cấu hình loại trừ file của Git
-└── README.md                   # Tài liệu hướng dẫn dự án
-```
-
----
 
 ## 🚀 Hướng Dẫn Cài Đặt & Chạy Ứng Dụng
 
